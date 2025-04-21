@@ -1,2 +1,2 @@
 # apothecary
-Herbal apothecary is a fun and exciting business.
+Herbal Apothecary is a mockup of a wellness-based online shop, inspired by a store I once visited. Created as part of a student assignment, this project blends the charm of old-world apothecaries with the ease of modern self-care. It features a variety of natural, eco-conscious products and soul-nourishing wellness goods. From calming herbal teas and locally made bath bombs to healing crystals, incense, and green home essentials — every item is thoughtfully chosen to promote balance, peace, and holistic well-being.
